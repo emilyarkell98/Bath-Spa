@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE HTML>
+<html lang=”en”>
+	<head> 
+        <meta charset="UTF-8">
+        <title> Hello Emily </title>
+	</head>
+    <h1> Emily Jane Arkell</h1>
+    <h2> I am doing this course as my full time thing! :)</h2>
+    <body>   Hello today is Tuesday </body>
+</html>
