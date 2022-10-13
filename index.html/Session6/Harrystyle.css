@@ -1,0 +1,182 @@
+body {
+background-color: black;
+color: white;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1{
+
+    text-align: center;
+}
+
+.image {
+    background-image:url(banner.jpg);
+height:80vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+text-align: center;
+}
+
+.header {
+font-size:95px;
+text-align: center;
+font-weight: bold;
+position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+.navigation {
+    width: 100%;
+    margin: 20px 0;
+    height: 25px;
+    margin-top:0%;
+}
+
+
+.navigation ul {
+
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+
+
+}
+
+.navigation ul li {
+    float: left;
+    width: 20%;
+
+  }
+  
+  a {
+    display: block;
+    padding: 10px 16px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+  }
+
+.study {
+text-align: center;
+font-size:12px ;
+margin-top: 25px;
+padding-top: 20px;
+margin-bottom: 25px;
+}
+
+
+.section {
+    display: flex;
+    justify-content: center; 
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 25px;
+  }
+  
+
+#dragon{
+height: 300px;
+width:450px ;
+
+}
+
+.text{
+    height: 300px;
+    width:450px ;
+}
+
+#willow{
+   height: 260px;
+    width:490px ;
+
+}
+
+#fight{
+height:260px ;
+width: 490px; 
+
+}
+
+h2{
+
+text-align: center;
+
+}
+
+.testimonials p {
+
+text-align: center;
+padding: 4em 0 0 0;
+}
+
+
+#gallery {
+    line-height:0;
+    -webkit-column-count:5; 
+    -webkit-column-gap:5px; 
+    -moz-column-count:5;
+    -moz-column-gap:5px;
+    column-count:5;
+    column-gap:5px;
+ }
+
+ #gallery img {
+    width: 100% ;
+    height: auto;
+    margin-bottom:5px; }
+
+.form {
+        border-radius: 5px;
+        background-color: black;
+        padding: 20px;
+      }
+
+      input[type=text], select, textarea {
+        width: 100%; /* Full width */
+        padding: 12px; /* Some padding */ 
+        border: 1px solid black; /* Gray border */
+        border-radius: 4px; /* Rounded borders */
+        box-sizing: border-box; /* Make sure that padding and width stays in place */
+        margin-top: 6px; /* Add a top margin */
+        margin-bottom: 16px; /* Bottom margin */
+        resize: vertical;
+        background-color: #d16817; 
+        color: black;
+
+    
+      }
+      input[type=submit] {
+        background-color: #c6643d;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }     
+      
+.thanks p {
+        text-align: center;
+        padding: 4em 4em 0 0;
+        font-size: 25px;
+        }
+
+#hedwig {
+
+border-radius: 50%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+  height: 400px;
+
+
+
+}
