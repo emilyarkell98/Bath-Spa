@@ -1,0 +1,23 @@
+body {
+background-color:#ffd4f7;
+
+
+}
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+color: darkmagenta;
+
+}
+
+.centreimage {
+   
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+      }
+
+
+
+
