@@ -36,6 +36,7 @@ position: absolute;
     margin: 20px 0;
     height: 25px;
     margin-top:0%;
+    
 }
 
 
@@ -139,13 +140,13 @@ padding: 4em 0 0 0;
       }
 
       input[type=text], select, textarea {
-        width: 100%; /* Full width */
-        padding: 12px; /* Some padding */ 
-        border: 1px solid black; /* Gray border */
-        border-radius: 4px; /* Rounded borders */
-        box-sizing: border-box; /* Make sure that padding and width stays in place */
-        margin-top: 6px; /* Add a top margin */
-        margin-bottom: 16px; /* Bottom margin */
+        width: 100%; 
+        padding: 12px; 
+        border: 1px solid black; 
+        border-radius: 4px; 
+        box-sizing: border-box; 
+        margin-top: 6px; 
+        margin-bottom: 16px; 
         resize: vertical;
         background-color: #d16817; 
         color: black;
@@ -174,9 +175,21 @@ display: block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-
   height: 400px;
+}
 
 
+.about p {
 
+font-size:25px ;
+padding: 0 2em 2em 2em;
+text-align: center;
+line-height:35px;
+
+}
+#titlehog {
+
+font-size:35px ;    
+padding-top: 5%;
+font-weight: bold;
 }
