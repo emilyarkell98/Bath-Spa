@@ -1,0 +1,57 @@
+body {
+
+background-color: #c6e4f7;
+}
+
+.container{
+display: flex;
+height: 100vh;
+width: 100vw;
+background-color: blue;
+
+}
+#box1 {
+
+height: 60px;
+width: 60px;
+background-color: pink;
+align-self: flex-end;
+
+
+}
+
+#box2 {
+
+height: 150px;
+width: 150px;
+background-color: khaki;
+align-self: center;
+justify-self: center;
+
+}
+
+#box3 {
+
+height: 89px;
+width: 89px;
+background-color: brown;
+align-self: flex-start;
+
+}
+
+#box4 {
+height: 110px;
+width: 110px;
+background-color: blueviolet;
+}
+
+#box5 {
+
+height: 250px;
+width: 250px;
+background-color: darkcyan;
+
+}
+
+
+
